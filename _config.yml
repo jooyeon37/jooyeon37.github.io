@@ -146,13 +146,13 @@ content:
         caption: 2020 - 2025
         sub_title: M.S. & Ph.D Department of Electrical and Computer Engineering
         quote: >
-          As a graduate student, I specialized in the physical design of digital circuits within semiconductor design. In my remaining time before graduation, I plan to advance my research by applying AI to improve.
+          As a graduate student, I specialized in the physical design of digital circuits within semiconductor design. <br> In my remaining time before graduation, I plan to advance my research by applying AI to improve.
       - layout: left
         title: Chung-ang University
         caption: 2016 - 2020
         sub_title: B.S. School of Electrical and Electronics Engineering
         quote: >
-          Entered as the class valedictorian / Full-tuition scholarship for four years (2016-2020) / Academic Excellence Scholarship (2016-2018) / Departmental Scholarship (2016-2019) / Summa Cum Laude Graduate
+          Entered as the class valedictorian / Full-tuition scholarship for four years (2016-2020) / <br> Academic Excellence Scholarship (2016-2018) / Departmental Scholarship (2016-2019) / Summa Cum Laude Graduate
 
   - title: Research Interest
     layout: text
