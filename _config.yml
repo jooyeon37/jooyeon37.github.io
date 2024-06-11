@@ -69,8 +69,10 @@ content:
       - layout: top-middle
         title: 2023 Design, Automation and Test in Europe Conference (DATE)
         description: | # this will include new lines to allow paragraphs
-          Jooyeon Jeong, Sehyeon Chung, Kyeongrok Jo, and Taewhan Kim. 
+        <div style="text-align: center;">
+          Jooyeon Jeong, Sehyeon Chung, Kyeongrok Jo, and Taewhan Kim. <br>
           “Synthesis and Utilization of Standard Cells Amenable to Gear Ratio of Gate-Metal Pitches for Improving Pin Accessibility.”  
+        </div>
       - layout: top-middle
         title: 2022 International Symposium on Low Power Electronics and Design (ISLPED)
         description: | # this will include new lines to allow paragraphs
