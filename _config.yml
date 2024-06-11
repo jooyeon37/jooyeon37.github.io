@@ -58,8 +58,9 @@ content:
       - layout: top-middle
         title: 2024 Design Automation Conference (DAC)
         description: | # this will include new lines to allow paragraphs       
-          Jooyeon Jeong and Taewhan Kim. 
-          “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
+        rows:
+          - Jooyeon Jeong and Taewhan Kim. 
+          - “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
       - layout: top-middle
         title: 2024 Integration, the VLSI Journal
         description: | # this will include new lines to allow paragraphs   
