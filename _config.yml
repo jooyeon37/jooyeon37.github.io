@@ -69,31 +69,38 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Jooyeon Jeong and Taewhan Kim. “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
+          Jooyeon Jeong and Taewhan Kim. 
+          “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
       - layout: top-middle
         title: 2024 Integration, the VLSI Journal
         description: | # this will include new lines to allow paragraphs
-          Jooyeon Jeong and Taewhan Kim. “Placement Legalization for Heterogeneous Cells of Non-Integer Multiple-Heights.”  
+          Jooyeon Jeong and Taewhan Kim. 
+          “Placement Legalization for Heterogeneous Cells of Non-Integer Multiple-Heights.”  
       - layout: top-middle
         title: 2023 Design, Automation and Test in Europe Conference (DATE)
         description: | # this will include new lines to allow paragraphs
-          Jooyeon Jeong, Sehyeon Chung, Kyeongrok Jo, and Taewhan Kim. “Synthesis and Utilization of Standard Cells Amenable to Gear Ratio of Gate-Metal Pitches for Improving Pin Accessibility.”  
+          Jooyeon Jeong, Sehyeon Chung, Kyeongrok Jo, and Taewhan Kim. 
+          “Synthesis and Utilization of Standard Cells Amenable to Gear Ratio of Gate-Metal Pitches for Improving Pin Accessibility.”  
       - layout: top-middle
         title: 2022 International Symposium on Low Power Electronics and Design (ISLPED)
         description: | # this will include new lines to allow paragraphs
-          Sehyeon Chung, Jooyeon Jeong, and Taewhan Kim. “Improving Performance and Power by Co-Optimizing Middle-of-Line Routing, Pin Pattern Generation, and Contact over Active Gates in Standard Cell Layout Synthesis.”  
+          Sehyeon Chung, Jooyeon Jeong, and Taewhan Kim. 
+          “Improving Performance and Power by Co-Optimizing Middle-of-Line Routing, Pin Pattern Generation, and Contact over Active Gates in Standard Cell Layout Synthesis.”  
       - layout: top-middle
         title: 2021 International SoC Design Conference (ISOCC)
         description: | # this will include new lines to allow paragraphs
-          Heechun Park, Kyungjoon Chang, Jooyeon Jeong, Jaehoon Ahn, Ki-Seok Chung, and Taewhan Kim. “Challenges on DTCO Methodology Towards Deep Submicron Interconnect Technology.”  
+          Heechun Park, Kyungjoon Chang, Jooyeon Jeong, Jaehoon Ahn, Ki-Seok Chung, and Taewhan Kim. 
+          “Challenges on DTCO Methodology Towards Deep Submicron Interconnect Technology.”  
       - layout: top-middle
         title: 2021 Midwest Symposium on Circuits and Systems (MWSCAS)
         description: | # this will include new lines to allow paragraphs
-          Jooyeon Jeong and Taewhan Kim. “Utilizing Middle-of-Line Resource in Filler Cells for Fixing Routing Failures.”  
+          Jooyeon Jeong and Taewhan Kim. 
+          “Utilizing Middle-of-Line Resource in Filler Cells for Fixing Routing Failures.”  
       - layout: top-middle
         title: 2021 Midwest Symposium on Circuits and Systems (MWSCAS)
         description: | # this will include new lines to allow paragraphs
-          Eunsol Jeong, Heechun Park, Jooyeon Jeong, and Taewhan Kim. “Minimum Implant Area-Aware Threshold Voltage Refinement in Pre-Placement.”  
+          Eunsol Jeong, Heechun Park, Jooyeon Jeong, and Taewhan Kim. 
+          “Minimum Implant Area-Aware Threshold Voltage Refinement in Pre-Placement.”  
           
   - title: Work Experiences # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,7 +114,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             29th Asia and South Pacific Design Automation Conference
       - layout: left
-        title: Samsung Semiconductor System LSI
+        title: Samsung Electronics, System LSI
         sub_title: Intern
         caption: November 2022 - December 2022
         description: | # this will include new lines to allow paragraphs
@@ -149,11 +156,10 @@ content:
         title: Seoul National University
         caption: 2020 - 2025
         sub_title: M.S. & Ph.D Department of Electrical and Computer Engineering
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        quote: >
+          In my remaining time before graduation, I plan to advance my research by applying AI to improve.
         #description: | # this will include new lines to allow paragraphs
         #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
         title: Chung-ang University
@@ -178,7 +184,6 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - layout: middle
       - Python
       - C/C++ 
       - SKILL language in Cadence 
@@ -196,13 +201,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Learn basic theories of logic design including Boolean algebra and logic minimization and operation principles of logic devices. It also covers design methods for combinational logic and sequential logic
 
-    content: | # this will include new lines to allow paragraphs
-      - AI, Machine learning, Deep learning
-      - Very-Large-Scale Integration (VLSI)
-      - Physical design
-      - Optimization                                                                                                                      
-      - Algorithm
-      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
