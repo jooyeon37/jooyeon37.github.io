@@ -58,8 +58,8 @@ content:
       - layout: top-middle
         title: 2024 Design Automation Conference (DAC)
         description: | # this will include new lines to allow paragraphs       
-        <div style="text-align: center;">
-          Jooyeon Jeong and Taewhan Kim. <br>
+        <div class="center-text">
+          Jooyeon Jeong and Taewhan Kim.
           “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
         </div>
       - layout: top-middle
