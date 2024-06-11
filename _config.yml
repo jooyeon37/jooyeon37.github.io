@@ -45,7 +45,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Jooyeon Jeong. My research in digital semiconductor design focuses on optimizing PPA(Power, Performance, Area) in the physical design stage, including standard cell design optimization, chip layout optimization and design-technology co-optimization, which considers both standard cells and chip layouts simultaneously. In my remaining time before graduation, I plan to advance my research by applying AI to improve.
 
@@ -99,15 +99,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Local Arrangement Co-Chairs for ASP-DAC conference
-        #sub_title: Senior Network System Administrator
+        title: ASP-DAC conference
+        sub_title: Local Arrangement Co-Chairs
         caption: January 2024
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             29th Asia and South Pacific Design Automation Conference
       - layout: left
-        title: Intern for Samsung Semiconductor System LSI
+        title: Samsung Semiconductor System LSI
+        sub_title: Intern
         caption: November 2022 - December 2022
         description: | # this will include new lines to allow paragraphs
             Conducted research on the utilization of mixed voltage threshold in standard cells for advanced circuit
@@ -179,6 +180,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - layout: middle
       - Python
       - C/C++ 
       - SKILL language in Cadence 
@@ -190,7 +192,7 @@ content:
   - title: TA Experiences
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         title: Digital Logic Design and Lab
         caption: Fall 2023, Fall 2021, Summer 2021, Fall 2020
         description: | # this will include new lines to allow paragraphs
