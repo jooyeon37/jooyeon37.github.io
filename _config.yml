@@ -57,44 +57,37 @@ content:
     content:
       - layout: top-middle
         title: 2024 Design Automation Conference (DAC)
-        description: | # this will include new lines to allow paragraphs
-        - layout: middle        
+        description: | # this will include new lines to allow paragraphs       
           Jooyeon Jeong and Taewhan Kim. 
           “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
       - layout: top-middle
         title: 2024 Integration, the VLSI Journal
-        description: | # this will include new lines to allow paragraphs
-        - layout: middle        
+        description: | # this will include new lines to allow paragraphs   
           Jooyeon Jeong and Taewhan Kim. 
           “Placement Legalization for Heterogeneous Cells of Non-Integer Multiple-Heights.”  
       - layout: top-middle
         title: 2023 Design, Automation and Test in Europe Conference (DATE)
         description: | # this will include new lines to allow paragraphs
-        - layout: middle        
           Jooyeon Jeong, Sehyeon Chung, Kyeongrok Jo, and Taewhan Kim. 
           “Synthesis and Utilization of Standard Cells Amenable to Gear Ratio of Gate-Metal Pitches for Improving Pin Accessibility.”  
       - layout: top-middle
         title: 2022 International Symposium on Low Power Electronics and Design (ISLPED)
         description: | # this will include new lines to allow paragraphs
-          - layout: middle
           Sehyeon Chung, Jooyeon Jeong, and Taewhan Kim. 
           “Improving Performance and Power by Co-Optimizing Middle-of-Line Routing, Pin Pattern Generation, and Contact over Active Gates in Standard Cell Layout Synthesis.”  
       - layout: top-middle
         title: 2021 International SoC Design Conference (ISOCC)
         description: | # this will include new lines to allow paragraphs
-        - layout: middle
           Heechun Park, Kyungjoon Chang, Jooyeon Jeong, Jaehoon Ahn, Ki-Seok Chung, and Taewhan Kim. 
           “Challenges on DTCO Methodology Towards Deep Submicron Interconnect Technology.”  
       - layout: top-middle
         title: 2021 Midwest Symposium on Circuits and Systems (MWSCAS)
-        description: | # this will include new lines to allow paragraphs
-        - layout: middle        
+        description: | # this will include new lines to allow paragraphs      
           Jooyeon Jeong and Taewhan Kim. 
           “Utilizing Middle-of-Line Resource in Filler Cells for Fixing Routing Failures.”  
       - layout: top-middle
         title: 2021 Midwest Symposium on Circuits and Systems (MWSCAS)
         description: | # this will include new lines to allow paragraphs
-        - layout: middle        
           Eunsol Jeong, Heechun Park, Jooyeon Jeong, and Taewhan Kim. 
           “Minimum Implant Area-Aware Threshold Voltage Refinement in Pre-Placement.”  
           
