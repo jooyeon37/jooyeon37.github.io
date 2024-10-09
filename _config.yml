@@ -204,7 +204,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Learn basic theories of logic design including Boolean algebra and logic minimization and operation principles of logic devices. It also covers design methods for combinational logic and sequential logic
       - layout: middle
-        title: fundamentals of algorithms
+        title: Fundamentals of algorithms
         caption: Fall 2024
         description: | # this will include new lines to allow paragraphs
             Learn various algorithms that are essential to analyze and solve complex problems systematically.
