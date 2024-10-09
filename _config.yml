@@ -9,7 +9,7 @@ version: 2
 name: Jooyeon Jeong
 title: PhD Candidate in Physical Design of Very Large Scale Integrated (VLSI) Circuits
 email: jooyeon@snucad.snu.ac.kr / jooyeon37@snu.ac.kr 
-linkedin: https://www.linkedin.com/in/jooyeon-jeong/
+#linkedin: https://www.linkedin.com/in/jooyeon-jeong/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin: https://www.linkedin.com/in/jooyeon-jeong/
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
