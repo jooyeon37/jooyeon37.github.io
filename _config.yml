@@ -58,6 +58,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 25'MLCAD
+        sub_title: International Symposium on Machine Learning for CAD
+        description: | # this will include new lines to allow paragraphs       
+          Jooyeon Jeong and Taewhan Kim. <br>
+          “Machine Learning Driven Early Clustering for Multi-bit Flip-Flop Allocation.” 
+      - layout: left
         title: 24'DAC
         sub_title: Design Automation Conference 
         description: | # this will include new lines to allow paragraphs       
