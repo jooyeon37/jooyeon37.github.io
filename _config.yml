@@ -133,6 +133,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: FuriosaAI
+        caption: July 31 2025
+        description: | # this will include new lines to allow paragraphs
+            Gave a seminar on using Graph Neural Networks (GNN) for multi-bit flip-flop clustering at FuriosaAI.
+      - layout: left
         title: Samsung Electronics, Memory division
         caption: April 2022 - January 2024
         description: | # this will include new lines to allow paragraphs
