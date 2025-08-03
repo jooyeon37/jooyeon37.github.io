@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jooyeon Jeong
-title: PhD Candidate in Physical Design of Very Large Scale Integrated (VLSI) Circuits
+title: Dr. degree with Physical Design of Very Large Scale Integrated (VLSI) Circuits
 email: jooyeon@snucad.snu.ac.kr / jooyeon37@snu.ac.kr 
 #linkedin: https://www.linkedin.com/in/jooyeon-jeong/
 
@@ -54,6 +54,27 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Algorithm</mark>, <mark>Optimization</mark> and <mark>Electronic Design Automation</mark>
 
 content:
+  - title: Education and Employment
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Postdoc
+        sub_title: 2025-
+        description: | # this will include new lines to allow paragraphs       
+          University of California, Los Angeles
+          Electrical and Computer Engineering
+      - layout: left
+        title: Ph. D
+        sub_title: 2020-2025 
+        description: | # this will include new lines to allow paragraphs       
+          Seoul National University
+          Electrical and Computer Engineering
+        - layout: left
+        title: Bachelor
+        sub_title: 2016-2020
+        description: | # this will include new lines to allow paragraphs       
+          Chung-ang University
+          Electerical and Electronics Engineering
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
