@@ -49,9 +49,9 @@ linkedin_username: jooyeon-jeong
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Jooyeon Jeong. My research in digital semiconductor design focuses on optimizing PPA(Power, Performance, Area) in the physical design stage, including standard cell design optimization, chip layout optimization and design-technology co-optimization, which considers both standard cells and chip layouts simultaneously. In my remaining time before graduation, I plan to advance my research by applying AI to improve.
+  Hi, I'm Jooyeon Jeong. My research in digital semiconductor design focuses on Advanced Packaging and optimizing PPA(Power, Performance, Area) in the physical design stage, including standard cell design optimization, chip layout optimization and design-technology co-optimization, which considers both standard cells and chip layouts simultaneously. I have experiences with AI as well.
 
-  I am most skilled in: <mark>Algorithm</mark>, <mark>Optimization</mark> and <mark>Electronic Design Automation</mark>
+  I am most skilled in: <mark>Algorithm</mark>, <mark>Optimization</mark>, <mark>AI</mark>, <mark>Advanced Packaging</mark> and <mark>Electronic Design Automation</mark>
 
 content:
   - title: Education and Employment
@@ -80,49 +80,55 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 25'MLCAD
+        title: DATE'26 (Accepted)
+        sub_title: Design, Automation and Test in Europe Conference
+        description: | # this will include new lines to allow paragraphs       
+          Junghyun Yoon, Jooyeon Jeong and Heechun Park. <br>
+          “Breaking Standard Cell Margin Constraints for Area-Efficient VLSI Design.” 
+      - layout: left
+        title: MLCAD'25
         sub_title: International Symposium on Machine Learning for CAD
         description: | # this will include new lines to allow paragraphs       
           Jooyeon Jeong and Taewhan Kim. <br>
           “Machine Learning Driven Early Clustering for Multi-bit Flip-Flop Allocation.” 
       - layout: left
-        title: 24'DAC
+        title: DAC'24
         sub_title: Design Automation Conference 
         description: | # this will include new lines to allow paragraphs       
           Jooyeon Jeong and Taewhan Kim. <br>
           “Binding Multi-bit Flip-flop Cells through Design and Technology Co-optimization.” 
       - layout: left
-        title: 24'Integration
+        title: Integration'24
         sub_title: Integration, the VLSI Journal
         description: | # this will include new lines to allow paragraphs   
           Jooyeon Jeong and Taewhan Kim. <br>
           “Placement Legalization for Heterogeneous Cells of Non-Integer Multiple-Heights.”  
       - layout: left
-        title: 23'DATE
+        title: DATE'23
         sub_title: Design, Automation and Test in Europe Conference
         description: | # this will include new lines to allow paragraphs
           Jooyeon Jeong, Sehyeon Chung, Kyeongrok Jo, and Taewhan Kim. <br>
           “Synthesis and Utilization of Standard Cells Amenable to Gear Ratio of Gate-Metal Pitches for Improving Pin Accessibility.”  
       - layout: left
-        title: 22'ISLPED
+        title: ISLPED'22
         sub_title: International Symposium on Low Power Electronics and Design
         description: | # this will include new lines to allow paragraphs
           Sehyeon Chung, Jooyeon Jeong, and Taewhan Kim. <br>
           “Improving Performance and Power by Co-Optimizing Middle-of-Line Routing, Pin Pattern Generation, and Contact over Active Gates in Standard Cell Layout Synthesis.”  
       - layout: left
-        title: 21'ISOCC
+        title: ISOCC'21
         sub_title: International SoC Design Conference
         description: | # this will include new lines to allow paragraphs
           Heechun Park, Kyungjoon Chang, Jooyeon Jeong, Jaehoon Ahn, Ki-Seok Chung, and Taewhan Kim. <br>
           “Challenges on DTCO Methodology Towards Deep Submicron Interconnect Technology.”  
       - layout: left
-        title: 21'MWSCAS
+        title: MWSCAS'21
         sub_title: Midwest Symposium on Circuits and Systems
         description: | # this will include new lines to allow paragraphs      
           Jooyeon Jeong and Taewhan Kim. <br>
           “Utilizing Middle-of-Line Resource in Filler Cells for Fixing Routing Failures.”  
       - layout: left
-        title: 21'MWSCAS
+        title: MWSCAS'21
         sub_title: Midwest Symposium on Circuits and Systems
         description: | # this will include new lines to allow paragraphs
           Eunsol Jeong, Heechun Park, Jooyeon Jeong, and Taewhan Kim. <br>
