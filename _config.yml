@@ -80,6 +80,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: ECTC'26 (Accepted)
+        sub_title: Electronic Components and Technology Conference
+        description: | # this will include new lines to allow paragraphs       
+          Aaron Yen, Jooyeon Jeong and Puneet Gupta. <br>
+          “Link Quality Aware Pathfinding for Chiplet Interconnects.” 
+      - layout: left
         title: DATE'26 (Accepted)
         sub_title: Design, Automation and Test in Europe Conference
         description: | # this will include new lines to allow paragraphs       
