@@ -202,7 +202,34 @@ content:
         caption: November 2022
         description: | # this will include new lines to allow paragraphs
             Engaged in productive discussions and shared research findings with Cadence headquarters
-            
+
+  - title: Workshop Experiences # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: NSF Workshop
+        sub_title: Agent4Chip26
+        caption: March 2026
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            NSF Workshop on Agents for Chip Design Automation 
+      - layout: left
+        title: IMAPS
+        sub_title: 
+        caption: September 2025
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            International Microelectronics Assembly and Packaging Society 
+      - layout: left
+        title: CHIMES
+        sub_title: https://www.psu.edu/news/research/story/chimes-celebrates-third-year-next-generation-semiconductor-innovation
+        caption: August 2025
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Center for Heterogeneous Integration of Micro Electronic Systems (CHIMES)             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
