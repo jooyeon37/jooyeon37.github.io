@@ -223,6 +223,14 @@ content:
         description: | # this will include new lines to allow paragraphs
             International Microelectronics Assembly and Packaging Society 
       - layout: left
+        title: DAC 
+        sub_title: Design Automation Conference 
+        caption: June 2025
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Poster presentation about clustering multi-bit flip-flops 
+      - layout: left
         title: CHIMES
         sub_title: https://www.psu.edu/news/research/story/chimes-celebrates-third-year-next-generation-semiconductor-innovation
         caption: August 2025
