@@ -150,6 +150,30 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: OpenRoad ASAP7 7nm cell library
+        sub_title: Github merged
+        caption: April 2026
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Add I/O cells to the ASAP7 7nm cell library
+      - layout: left
+        title: UCLA Electrical and Computer Engineering
+        sub_title: Guest lecture
+        caption: January 2026
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            201A Class
+      - layout: left
+        title: Furiosa AI
+        sub_title: Seminar
+        caption: July 2025
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Multi-bit flip-flop clustering using GNN method
+      - layout: left
         title: ASP-DAC conference
         sub_title: Local Arrangement Co-Chairs
         caption: January 2024
