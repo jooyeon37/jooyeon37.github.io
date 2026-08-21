@@ -59,10 +59,16 @@ content:
     content:
       - layout: left
         title: Postdoc
-        sub_title: 2025-
+        sub_title: 07.01.2025-
         description: |
           University of California, Los Angeles
           Electrical and Computer Engineering
+      - layout: left
+        title: Postdoc
+        sub_title: 03.01.2025-06.30.2025
+        description: |
+          Seoul National University
+          Electrical and Computer Engineering          
       - layout: left
         title: Ph. D
         sub_title: 2020-2025 
