@@ -86,6 +86,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: DRYAD
+        sub_title: An open data publishing platform
+        description: | # this will include new lines to allow paragraphs       
+          Jooyeon Jeong, Rohan Soni, Anthony Foo, Richard Chen, Alexander Graening, Cho Moon, Dooseok Yoon, Osama Reheem, Andrew Kahng, Puneet Gupta. <br>
+          “Data from: An open-source benchmark suite of 3D-IC testcases.”    
+      - layout: left
+        title: arxiv
+        sub_title: Submitted on 25 Aug 2026
+        description: | # this will include new lines to allow paragraphs       
+          Rohan Soni, Jooyeon Jeong, Alexander Graening, Anthony Foo, Richard Chen, Puneet Gupta. <br>
+          “An Open-Source Benchmark Suite of 3D-IC Testcases.”              
+      - layout: left
         title: ICCAD'26 (Accepted)
         sub_title: International Conference on Computer-Aided Design
         description: | # this will include new lines to allow paragraphs       
